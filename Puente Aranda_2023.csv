@@ -1,4 +1,4 @@
-Fecha;PM10;PM2.5;Velo-Viento;Precipitacion;Direccion;O3;CO;NO;NO2;NOX;SO2;Temperatura;Radiacion;HT
+Fecha;PM10;PM2-5;Velocidad;Precipitacion;Direccion;O3;CO;NO;NO2;NOX;SO2;Temperatura;Radiacion;HT
 1/01/2023 1:00;35;26,7;1,1;0;276;12,6;0,4;13;11;24;0,5;13,5;0;90
 1/01/2023 2:00;42,5;38,7;1;0;306;8,3;0,4;12,2;13,7;25,9;0,8;13,5;0;89
 1/01/2023 3:00;45,3;44,8;1;0;312;11,3;0,2;10,8;8,9;19,7;0,4;13,3;0;89
